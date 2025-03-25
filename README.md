@@ -1,2 +1,2 @@
 # Hoja-de-Vida
-Hoja de Vida Andres Galvis
+El archivo Curriculum AndresGalvis.pdf contiene mi Hoja de vida.
